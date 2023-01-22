@@ -3,7 +3,7 @@
 <p align="center"><img src="https://miro.medium.com/max/890/1*4XMZHlcpP6WNl2G6tvijJA.png" width=400></p>
 
 <p align="center">
-><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
 </p>
 
 ## O que são essas IA?
